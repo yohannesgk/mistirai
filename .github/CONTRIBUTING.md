@@ -1,3 +1,3 @@
-# Contributing to vLLM
+# Contributing to MISTIR
 
-You may find information about contributing to vLLM on [docs.vllm.ai](https://docs.vllm.ai/en/latest/contributing).
+You may find information about contributing to vLLM on [docs.vllm.ai](https://docs.mistir.ai/en/latest/contributing).
